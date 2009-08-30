@@ -1,0 +1,3 @@
+Compiling:
+
+gcc -O2 -o mcttt -std=c99 -Wall mcttt.c
